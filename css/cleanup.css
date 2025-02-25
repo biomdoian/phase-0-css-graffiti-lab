@@ -1,1 +1,37 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    opacity: 0;
+    background-image: none;
+  }
+  .tag-1{
+    display: none;
+    opacity: 0;
+    background-image: none;
+  }
+#tag-2{
+    display: none;
+    opacity: 0;
+    background-image: none;
+}
+#tag-3.slick.wicked{
+display: none;
+opacity: 0;
+background-image: none;
+}
+  .slick{
+    display: none;
+    opacity: 0;
+    background-image: none;
+  }
+  #tag-6{
+    display: none;
+    opacity: 0;
+    background-image: none;
+  }
+  #tag-7{
+    display: none;
+    opacity: 0;
+    background-image: none;
+  }
+
